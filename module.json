@@ -1,0 +1,25 @@
+{
+    "name": "heldensoftware-import",
+    "title": "Heldensoftware Importer",
+    "description": "Importiert Helden aus der Heldensoftware in Foundry VTT",
+    "version": "1.0.0",
+    "authors": [
+      {
+        "name": "Fin"
+      }
+    ],
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "11",
+    "compatibility": {
+      "minimum": 10,
+      "verified": 11
+    },
+    "esmodules": ["heldenImport.js"],
+    "styles": [],
+    "packs": [],
+    "system": [],
+    "languages": [],
+    "url": "",
+    "manifest": "",
+    "download": ""
+  }
